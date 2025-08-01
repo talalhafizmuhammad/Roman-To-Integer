@@ -183,9 +183,4 @@ You are free to use, distribute, and modify with attribution.
 
 Made with ❤️ by Hafiz Muhammad Talal and contributors.
 
-```
 
----
-
-Would you like me to also generate all the code files in each folder with standard implementations and folder structure so you can directly push them?
-```
