@@ -1,18 +1,9 @@
-Got it! Here's a **single all-in-one `README.md`** with:
 
-* 📌 Problem statement
-* 🧪 Examples
-* 🌐 All language implementations listed with folder paths
-* ⚙️ How to run for each language (all collapsible)
-* 🤝 Contribution instructions
-* 📜 License
-* 🙌 Acknowledgment
 
 ---
 
 ### ✅ Final `README.md`
 
-```markdown
 # 🏛️ Roman to Integer – Multi-language Implementations
 
 This repository contains clean implementations of the **"Roman to Integer"** problem in multiple programming languages.
@@ -24,14 +15,12 @@ This repository contains clean implementations of the **"Roman to Integer"** pro
 Given a string representing a Roman numeral, convert it to its corresponding integer. Roman numerals follow rules including additive and subtractive notation.
 
 ### 🧪 Example
-```
+
 
 Input:  "MCMXCIV"
 Output: 1994
 
-````
 
----
 
 ## 🌐 Supported Languages & Paths
 
